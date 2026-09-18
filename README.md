@@ -25,6 +25,16 @@ student placement activities and manage recruitment-related information.
 - Bootstrap
 - XAMPP
 
+## 📄 Project Documentation
+
+The complete project report contains the system introduction, objectives,
+scope, modules, SRS, diagrams, architecture, testing, risk management
+and project conclusion.
+
+### 📘 Project Report
+
+[📥 View Project Report](./Project-Report.pdf)
+
 ## 📂 Project Structure
 
 ```text
